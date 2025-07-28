@@ -1,0 +1,21 @@
+/* CSS bổ sung cho create_module - sử dụng chung với auth.css */
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+}
+
+.w-100 {
+  width: 100%;
+}
+
+.mt-3 {
+  margin-top: 1rem;
+}
+
+.form-group {
+  margin-bottom: 0;
+}

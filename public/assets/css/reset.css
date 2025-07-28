@@ -1,0 +1,34 @@
+
+.info-text {
+  font-size: 14px;
+  color: #666;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+
+.password-requirements {
+  font-size: 12px;
+  color: #666;
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color: #f8f9fa;
+  border-radius: 4px;
+  border-left: 3px solid #7494ec;
+}
+
+.password-requirements p {
+  margin-bottom: 5px;
+  font-weight: 500;
+  text-align: left;
+}
+
+.password-requirements ul {
+  padding-left: 20px;
+  margin: 5px 0 0 0;
+}
+
+.password-requirements li {
+  margin-bottom: 3px;
+  text-align: left;
+}
